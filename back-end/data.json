@@ -1,5 +1,8 @@
 [
   {
-    "id": "1"
+    "id": "1",
+    "name": "Tefison Nash",
+    "email": "nashtefison@gmail.com",
+    "password": "nashtefison"
   }
 ]
